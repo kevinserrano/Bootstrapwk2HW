@@ -1,0 +1,54 @@
+.col-md-6 {
+    margin-left: 30%;
+    margin-top: 10%;
+
+}
+
+
+
+.float-left {
+    padding-right: 10px;
+}
+
+h1 {
+    font-family: 'Mr Dafoe', cursive;
+}
+
+
+.jumbotron,
+.display-4 {
+    width: 500px;
+    height: 200px;
+    font-family: 'Mr Dafoe', cursive;
+
+}
+
+.display-4 {
+    text-align: center;
+}
+
+.container_2 {
+    width: 60%;
+    background-color: rgb(215, 215, 245);
+    margin-top: 5%;
+    padding-left: 2%;
+    margin-left: 25%;
+    margin-bottom: 2%;
+
+}
+
+.container {
+    width: 40%;
+    background-color: rgb(215, 215, 245);
+    margin-top: 5%;
+    padding: 5px;
+    margin-bottom: 2%;
+}
+
+body {
+    background-color: rgb(186, 186, 240);
+}
+
+.col-md-6 .port {
+    margin: auto;
+}
