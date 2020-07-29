@@ -11,15 +11,15 @@
 }
 
 h1 {
-    font-family: 'Mr Dafoe', cursive;
+    font-family: 'Roboto Slab', serif;
 }
 
 
 .jumbotron,
 .display-4 {
-    width: 500px;
-    height: 200px;
+    height: auto;
     font-family: 'Mr Dafoe', cursive;
+
 
 }
 
@@ -27,17 +27,12 @@ h1 {
     text-align: center;
 }
 
-.container_2 {
-    width: 60%;
-    background-color: rgb(215, 215, 245);
-    margin-top: 5%;
-    padding-left: 2%;
-    margin-left: 25%;
-    margin-bottom: 2%;
-
+img {
+    width: 100%;
+    height: auto;
 }
 
-.container {
+.container-fluid {
     width: 40%;
     background-color: rgb(215, 215, 245);
     margin-top: 5%;
@@ -51,4 +46,10 @@ body {
 
 .col-md-6 .port {
     margin: auto;
+}
+
+@media screen and (max-width: 412px) {
+    html {
+        font-size: 55%;
+    }
 }
