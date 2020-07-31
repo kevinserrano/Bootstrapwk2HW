@@ -39,6 +39,7 @@ img {
     margin-bottom: 2%;
 }
 
+
 body {
     background-color: rgb(186, 186, 240);
 }
@@ -47,9 +48,12 @@ body {
     margin: auto;
 }
 
+
+
 @media screen and (max-width: 412px) {
     html {
         font-size: 55%;
     }
+
 
 }
