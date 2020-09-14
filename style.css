@@ -12,6 +12,12 @@
     color: black;
 }
 
+.list-group-item {
+    background-image: url(https://wallpaperset.com/w/full/d/8/4/34000.jpg);
+    color: ivory;
+}
+
+.container,
 .d-block {
     display: block;
     margin-left: auto;
@@ -58,27 +64,6 @@ body {
     text-shadow: -2px -2px rgba(245, 245, 245, 0.61);
 }
 
-img {
-    width: 100%;
-    height: auto;
-}
-
-.container-fluid {
-    background-color: rgb(215, 215, 245);
-}
-
-.container-fluid,
-.container {
-    width: 40%;
-
-    margin-top: 5%;
-    padding: 5px;
-    margin-bottom: 2%;
-}
-
-.col-md-6 .port {
-    margin: auto;
-}
 
 @media screen and (max-width: 412px) {
     html {
